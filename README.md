@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A CS major at Georgia Tech</h3>
+<h3 align="center">CS major at Georgia Tech</h3>
 
 - 🌱 I’m currently learning **ML/data science**
 
